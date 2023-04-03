@@ -1,2 +1,2 @@
-# Rel-gio-Digital-Din-mico
+# Rel-gio-Digital-Dinamico
 Projeto simples de treino de Html Css e JavaScript
